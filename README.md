@@ -1,0 +1,1 @@
+This folder contains comprehensive materials and exercises for mastering Python programming in the context of data science. Topics covered include data manipulation using libraries like Pandas, visualization with Matplotlib and Seaborn, and basic programming concepts applied to real-world data scenarios.
